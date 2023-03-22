@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/tangxiao/open/code/cc/c++PrimerPlus'
+make: Leaving directory '/home/tangxiao/open/code/cc/c++PrimerPlus'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

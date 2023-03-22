@@ -1,0 +1,351 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Tue Jul 19 09:58:57 2022
+
+# Variables
+
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# environment
+GNOME_SHELL_SESSION_MODE = ubuntu
+# environment
+SSH_AGENT_LAUNCHER = gnome-keyring
+# environment
+GJS_DEBUG_OUTPUT = stderr
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-1e656c69-0c28-4ca0-9bd8-8c93ef9ae41a.sock
+# environment
+LC_NAME = en_US.UTF-8
+# environment
+LC_NUMERIC = en_US.UTF-8
+# environment
+VSCODE_CWD = /home/tangxiao/open/code/cc/c++PrimerPlus
+# environment
+LC_ADDRESS = en_US.UTF-8
+# default
+MAKE_COMMAND := make
+# environment
+QT_ACCESSIBILITY = 1
+# environment
+VSCODE_GIT_ASKPASS_EXTRA_ARGS = --ms-enable-electron-run-as-node
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+JAVAHOME = /usr/lib/java/jdk1.6.0_41
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/tangxiao/open/code/cc/c++PrimerPlus
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+XDG_DATA_DIRS = /usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# environment
+OLDPWD = /home/tangxiao/open/code/cc
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/tangxiao/.config/Code/CachedData/30d9c6cd9483b2cc586687151bcbcd635f373630
+# environment
+LANG = C
+# environment
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.05MTP1
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/local/include /usr/include /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# environment
+SPECMAN_DIR = /opt/cadence/INCISIVE151/components/sn/
+# makefile
+CURDIR := /home/tangxiao/open/code/cc/c++PrimerPlus
+# environment
+LM_LICENSE_FILE = /opt/cadence/license/cadence.dat
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+LESSOPEN = | /usr/bin/lesspipe %s
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# environment
+WAYLAND_DISPLAY = wayland-0
+# environment
+XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+GIT_ASKPASS = /usr/share/code/resources/app/extensions/git/dist/askpass.sh
+# environment
+XDG_SESSION_DESKTOP = ubuntu
+# environment
+VRST_HOME = /opt/cadence/INCISIVE151
+# makefile
+MAKEFILE_LIST := 
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 2349
+# environment
+XDG_SESSION_TYPE = wayland
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+SESSION_MANAGER = local/tangxiao-Legion:@/tmp/.ICE-unix/1639,unix/tangxiao-Legion:/tmp/.ICE-unix/1639
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# makefile
+SHELL = /bin/sh
+# environment
+CLASSPATH = /usr/lib/java/jdk1.6.0_41/lib:/usr/lib/java/jdk1.6.0_41/jre/lib
+# default
+MAKECMDGOALS := all
+# environment
+XMODIFIERS = @im=ibus
+# environment
+LD_LIBRARY_PATH = /home/tangxiao/systemc/lib-linux64:/home/tangxiao/uvm-systemc/include//../lib-linux64:/opt/cadence/INCISIVE151/tools.lnx86/lib
+# environment
+GJS_DEBUG_TOPICS = JS ERROR;JS LOG
+# environment
+SHLVL = 1
+# environment
+MAKELEVEL := 0
+# environment
+IM_CONFIG_CHECK_ENV = 1
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /home/tangxiao/.local/bin:/home/tangxiao/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/java/jdk1.6.0_41/bin:/usr/lib/java/jdk1.6.0_41/jre/bin:/snap/bin:/opt/cadence/INCISIVE151/bin:/opt/cadence/INCISIVE151/tools.lnx86/bin:/opt/cadence/INCISIVE151/tools.lnx86/dfII/bin:/opt/cadence/INCISIVE151/bin:/opt/cadence/INCISIVE151/tools.lnx86/bin:/opt/cadence/INCISIVE151/tools.lnx86/dfII/bin
+# default
+MAKEFILES := 
+# environment
+VSCODE_GIT_IPC_HANDLE = /run/user/1000/vscode-git-2429b920d5.sock
+# environment
+LANGUAGE = en_US:en
+# environment
+VSCODE_GIT_ASKPASS_NODE = /usr/share/code/code
+# environment
+LC_MONETARY = en_US.UTF-8
+# automatic
+^F = $(notdir $^)
+# environment
+LC_TIME = en_US.UTF-8
+# environment
+VSCODE_GIT_ASKPASS_MAIN = /usr/share/code/resources/app/extensions/git/dist/askpass-main.js
+# environment
+INVOCATION_ID = 372fc91947f54f02a93506e729345d7f
+# environment
+INCISIVDIR = /opt/cadence/INCISIVE151
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = tangxiao
+# environment
+TERM_PROGRAM = vscode
+# environment
+GNOME_SETUP_DISPLAY = :1
+# environment
+LC_TELEPHONE = en_US.UTF-8
+# environment
+LESSCLOSE = /usr/bin/lesspipe %s %s
+# automatic
+?F = $(notdir $?)
+# environment
+SPECMAN_HOME = /opt/cadence/INCISIVE151/components/sn
+# environment
+XDG_CURRENT_DESKTOP = Unity
+# environment
+LS_COLORS = rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+# automatic
++F = $(notdir $+)
+# environment
+DESKTOP_SESSION = ubuntu
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = Unity
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = tangxiao
+# environment
+GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
+# makefile
+.DEFAULT_GOAL := 
+# environment
+SYSTEMC_HOME = /home/tangxiao/systemc
+# environment
+DISPLAY = :0
+# environment
+USER = tangxiao
+# environment
+GTK_MODULES = gail:atk-bridge
+# default
+MAKE_VERSION := 4.3
+# environment
+MANAGERPID = 1488
+# environment
+LC_MEASUREMENT = en_US.UTF-8
+# environment
+GIO_LAUNCHED_DESKTOP_FILE_PID = 2349
+# environment
+_ = /usr/bin/code
+# environment
+LC_PAPER = en_US.UTF-8
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+COLORTERM = truecolor
+# environment
+JOURNAL_STREAM = 8:35065
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/tangxiao
+# environment
+QT_IM_MODULE = ibus
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-c6b51988-1.68.1-main.sock
+# environment
+TERM = xterm-256color
+# environment
+IM_CONFIG_PHASE = 1
+# environment
+PAPERSIZE = letter
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+UVM_SYSTEMC_INCLUDE = /home/tangxiao/uvm-systemc/include/
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+XLM_HOME = /home/tangxiao/open/Xcelium.18.03.004/xcelium.18.03.004.crack/XCELIUM.18.03.004
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+TERM_PROGRAM_VERSION = 1.68.1
+# environment
+GDMSESSION = ubuntu
+# environment
+LC_IDENTIFICATION = en_US.UTF-8
+# variable set hash-table stats:
+# Load=133/1024=13%, Rehash=0, Collisions=7/160=4%
+
+# Pattern-specific Variable Values
+
+ 
+make: *** No rule to make target 'all'.  Stop.
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 66309, inode 4069873): 22 files, no impossibilities.
+
+# 22 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+GNUmakefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# files hash-table stats:
+# Load=6/1024=1%, Rehash=0, Collisions=0/15=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 30 / storage = 299 B / avg = 9 B
+# current buf: size = 8162 B / used = 299 B / count = 30 / avg = 9 B
+
+# strcache performance: lookups = 33 / hit rate = 9%
+# hash-table stats:
+# Load=30/8192=0%, Rehash=0, Collisions=0/33=0%
+# Finished Make data base on Tue Jul 19 09:58:57 2022
+
+ 
